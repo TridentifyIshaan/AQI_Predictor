@@ -1,3 +1,3 @@
-# Build with AI
-## GDG's BuildWithAI week 1
+# GDG's Build with AI
+## Week 1
 AQI_Predictor Model
