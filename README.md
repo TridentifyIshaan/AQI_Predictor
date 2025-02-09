@@ -1,2 +1,3 @@
-# AQI_Predictor
-AQI_Predictor Model made during GDG's BuildWithAI week 1
+# Build with AI
+## GDG's BuildWithAI week 1
+AQI_Predictor Model
